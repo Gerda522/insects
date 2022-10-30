@@ -7,12 +7,12 @@
   "theme_color": "#d676ff",
   "icons": [
     {
-      "src": "todologo192.png",
+      "src": "tdlogo192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "todologo512.png",
+      "src": "tdlogo512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
